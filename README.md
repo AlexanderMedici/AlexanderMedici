@@ -1,30 +1,62 @@
-## Hi there 👋
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Alexander Medici and I'm a Full Stack Developer, 
+  <br>
+  from 
+  <br>
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f1e8-1f1e6.png" height="60"   /> </p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I'm a full-stack developer a creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=powershell&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=markdown&theme=dark&perline=15" height="60"  />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=django&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark&perline=15" height="60"  />
+    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15" height="60"   /> 
+    <img src="https://skillicons.dev/icons?i=babel&theme=dark&perline=15" height="60"  />
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=15" height="60"  />
+    <img src="https://skillicons.dev/icons?i=materialui&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=windows&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=notion&theme=dark&perline=15" height="60"   />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  
 </div>
 
 ###
@@ -40,8 +72,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderMedici&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
